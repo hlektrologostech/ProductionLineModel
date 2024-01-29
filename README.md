@@ -52,12 +52,28 @@ ______
 ___
 Παρακάτω δίνεται όλη η λίστα των βασικών εξαρτημάτων του κυκλώματος : 
 
-* Raspberry Pi
-* Camera Module
-* Πακέτο 37 Αισθητήρων
-* Digital Infrared Motion Sensor
-* Τροφοδοτικό
-* Βηματικός Κινητήρας
-* DC Gear Motor
-* Stepper Motor Driver
-* DC  Motor Driver
+| A/A | υλικό                      | τεμ | τιμή μονάδας |
+|-----|----------------------------|-----|--------------|
+| 1   | Raspberry Pi               | 1   | 96,9         |
+| 2   | Camera                     | 1   | 42,8         |
+| 3   | power supply               | 1   | 14,8         |
+| 4   | Arduino Uno                | 1   | 29,9         |
+| 5   | Motor shield               | 1   | 29,9         |
+| 6   | power supply               | 1   | 12,4         |
+| 7   | NodeMCU ESP8266            | 2   | 6,8          |
+| 8   | Motor shield               | 1   | 12,5         |
+| 9   | power supply               | 1   | 12,4         |
+| 10  | DC Motor                   | 1   | 3,2          |
+| 11  | RC Servo 9g                | 5   | 11,8         |
+| 12  | IR sensor                  | 3   | 2,5          |
+| 13  | LEDs for lighting          | 1   | 6,9          |
+| 14  | Ball Transfer Unit Bearing | 4   | 1,4          |
+| 15  | διάφορα μικρό υλικά        | 1   | 30           |
+
+Η παραπάνω τιμές είναι ενδεικτικές κι οι τρέχουσες στη συγκεκριμένη περίοδο.
+
+Το συνολικό κόστος του project είναι περίπου στο 370 ευρώ
+
+
+
+
